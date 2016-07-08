@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 03-jul-2016, 18:40:10
+    Author     : Valmarc
+*/
+*{
+     margin:0px;
+    padding:0px;
+}
+
+.tdCabecera{
+            font-weight:bold;
+            font-size:16px;	 
+        }
+
+#main{
+  background-color: #FFF5EE;    
+}
+
+.mensaje{ 
+  font-family: Century Gothic;
+ font-size:12px;	  
+ }
+ 
+ #spanCocina{
+     color:black;
+ }
+
+ 
+#PiePagina {
+	text-align:center;
+	font-size:14px;	 
+        color:#ccc;
+	background-color:#848484;	 
+	margin-top:15px;	
+        font-family:Century Gothic;             
+	}
